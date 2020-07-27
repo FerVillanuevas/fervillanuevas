@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on my site
+🔭 I’m currently working on my site <br/>
 <a href="https://fervillanuevas.github.io/"> Click here if you want to play</a>
